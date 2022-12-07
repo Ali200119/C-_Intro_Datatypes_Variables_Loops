@@ -1,1 +1,1 @@
-# C-_Intro_Datatypes_Variables_Loops
+Homework for Thursday (08.12.2022)
